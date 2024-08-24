@@ -12,3 +12,4 @@ def hello_world():
 
 # Run the application
 if name == 'main':
+    app.run()
