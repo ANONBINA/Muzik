@@ -1,0 +1,7 @@
+python-telegram-bot
+yt-dlp
+ffmpeg
+Flask
+gunicorn
+tdqm
+
